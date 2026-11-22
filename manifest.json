@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "packs": [
+    {
+      "id": "onimusha",
+      "version": "1.0.0",
+      "api_min": 1,
+      "api_max": 1,
+      "url": "https://github.com/XFSeven7/gamebackup-support/releases/download/onimusha-v1.0.0/onimusha-v1.0.0.zip",
+      "sha256": "abb96f4991bec0f2f1ca0fbd0111fd4c9a2940ce1142008ea26c4c58deffa676",
+      "signature": "jV/+IPVqHliW0hqQPL3jivLL5JdmKmJ+qm+3R2AauwSJRiK/Fs6ma6fXbkijyuIihRT+HV4JX2TYM8DwAufUAA=="
+    },
+    {
+      "id": "mortal_shell",
+      "version": "1.0.0",
+      "api_min": 1,
+      "api_max": 1,
+      "url": "https://github.com/XFSeven7/gamebackup-support/releases/download/mortal_shell-v1.0.0/mortal_shell-v1.0.0.zip",
+      "sha256": "620c0ea8543509607789efba38fef79a38f0df8f5f8c7fd2d1f2aecd8282be02",
+      "signature": "nqpgK+Mw31VKkiGYQGtfkRebBY6HYNBrjDHeEoDX1Tt8FGKdytkZA/F7R0lCV6VRD0zChxrXggRT4F5u9++RCA=="
+    }
+  ]
+}
